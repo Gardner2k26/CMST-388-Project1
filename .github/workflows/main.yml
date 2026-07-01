@@ -19,4 +19,4 @@ jobs:
         with:
           app-name: 'CMST388-UMGC-tgardner37'
           slot-name: 'production'
-        publish-profile: ${{ secrets.AppServiceCMST388 }}
+        publish-profile: ${{ secrets.APPSERVICECMST388 }}
